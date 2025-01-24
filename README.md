@@ -24,6 +24,7 @@ Get Apis
 /item/item/:id -   item by item id
 
 Post Apis
+
 /addCategory -> add category
 /editcategory/:id -> add category
 /sub/addSubCategory -> add category
