@@ -1,7 +1,7 @@
 import express from 'express'
 import Category from '../model/category.js'
 import SubCategory from '../model/sub_category.js'
-
+import mongoose from 'mongoose'
 
 const router = express.Router()
 
